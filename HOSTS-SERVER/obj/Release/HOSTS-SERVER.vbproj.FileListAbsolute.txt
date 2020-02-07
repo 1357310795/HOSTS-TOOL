@@ -1,0 +1,9 @@
+C:\Users\13573\source\repos\HOSTS\HOSTS-SERVER\bin\Release\HOSTS-SERVER.exe
+C:\Users\13573\source\repos\HOSTS\HOSTS-SERVER\bin\Release\HOSTS-SERVER.pdb
+C:\Users\13573\source\repos\HOSTS\HOSTS-SERVER\bin\Release\HOSTS-SERVER.xml
+C:\Users\13573\source\repos\HOSTS\HOSTS-SERVER\obj\Release\HOSTS-SERVER.vbprojAssemblyReference.cache
+C:\Users\13573\source\repos\HOSTS\HOSTS-SERVER\obj\Release\HOSTS_SERVER.Resources.resources
+C:\Users\13573\source\repos\HOSTS\HOSTS-SERVER\obj\Release\HOSTS-SERVER.vbproj.GenerateResource.cache
+C:\Users\13573\source\repos\HOSTS\HOSTS-SERVER\obj\Release\HOSTS-SERVER.exe
+C:\Users\13573\source\repos\HOSTS\HOSTS-SERVER\obj\Release\HOSTS-SERVER.xml
+C:\Users\13573\source\repos\HOSTS\HOSTS-SERVER\obj\Release\HOSTS-SERVER.pdb

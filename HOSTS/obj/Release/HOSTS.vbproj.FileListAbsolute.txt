@@ -1,0 +1,12 @@
+C:\Users\13573\source\repos\HOSTS\HOSTS\bin\Release\HOSTS.exe
+C:\Users\13573\source\repos\HOSTS\HOSTS\bin\Release\HOSTS.pdb
+C:\Users\13573\source\repos\HOSTS\HOSTS\bin\Release\HOSTS.xml
+C:\Users\13573\source\repos\HOSTS\HOSTS\obj\Release\HOSTS.vbprojAssemblyReference.cache
+C:\Users\13573\source\repos\HOSTS\HOSTS\obj\Release\HOSTS.Form1.resources
+C:\Users\13573\source\repos\HOSTS\HOSTS\obj\Release\HOSTS.Resources.resources
+C:\Users\13573\source\repos\HOSTS\HOSTS\obj\Release\HOSTS.vbproj.GenerateResource.cache
+C:\Users\13573\source\repos\HOSTS\HOSTS\obj\Release\HOSTS.exe
+C:\Users\13573\source\repos\HOSTS\HOSTS\obj\Release\HOSTS.xml
+C:\Users\13573\source\repos\HOSTS\HOSTS\obj\Release\HOSTS.pdb
+C:\Users\13573\source\repos\HOSTS\HOSTS\bin\Release\HOSTS.exe.config
+C:\Users\13573\source\repos\HOSTS\HOSTS\obj\Release\HOSTS.frmAbout.resources

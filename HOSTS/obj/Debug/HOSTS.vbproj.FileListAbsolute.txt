@@ -1,0 +1,12 @@
+C:\Users\13573\source\repos\HOSTS\HOSTS\bin\Debug\HOSTS.exe
+C:\Users\13573\source\repos\HOSTS\HOSTS\bin\Debug\HOSTS.pdb
+C:\Users\13573\source\repos\HOSTS\HOSTS\bin\Debug\HOSTS.xml
+C:\Users\13573\source\repos\HOSTS\HOSTS\obj\Debug\HOSTS.vbprojAssemblyReference.cache
+C:\Users\13573\source\repos\HOSTS\HOSTS\obj\Debug\HOSTS.Form1.resources
+C:\Users\13573\source\repos\HOSTS\HOSTS\obj\Debug\HOSTS.Resources.resources
+C:\Users\13573\source\repos\HOSTS\HOSTS\obj\Debug\HOSTS.vbproj.GenerateResource.cache
+C:\Users\13573\source\repos\HOSTS\HOSTS\obj\Debug\HOSTS.exe
+C:\Users\13573\source\repos\HOSTS\HOSTS\obj\Debug\HOSTS.xml
+C:\Users\13573\source\repos\HOSTS\HOSTS\obj\Debug\HOSTS.pdb
+C:\Users\13573\source\repos\HOSTS\HOSTS\bin\Debug\HOSTS.exe.config
+C:\Users\13573\source\repos\HOSTS\HOSTS\obj\Debug\HOSTS.frmAbout.resources

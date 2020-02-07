@@ -1,0 +1,9 @@
+C:\Users\13573\source\repos\HOSTS\HOSTS-SERVER\bin\Debug\HOSTS-SERVER.exe
+C:\Users\13573\source\repos\HOSTS\HOSTS-SERVER\bin\Debug\HOSTS-SERVER.pdb
+C:\Users\13573\source\repos\HOSTS\HOSTS-SERVER\bin\Debug\HOSTS-SERVER.xml
+C:\Users\13573\source\repos\HOSTS\HOSTS-SERVER\obj\Debug\HOSTS-SERVER.vbprojAssemblyReference.cache
+C:\Users\13573\source\repos\HOSTS\HOSTS-SERVER\obj\Debug\HOSTS_SERVER.Resources.resources
+C:\Users\13573\source\repos\HOSTS\HOSTS-SERVER\obj\Debug\HOSTS-SERVER.vbproj.GenerateResource.cache
+C:\Users\13573\source\repos\HOSTS\HOSTS-SERVER\obj\Debug\HOSTS-SERVER.exe
+C:\Users\13573\source\repos\HOSTS\HOSTS-SERVER\obj\Debug\HOSTS-SERVER.xml
+C:\Users\13573\source\repos\HOSTS\HOSTS-SERVER\obj\Debug\HOSTS-SERVER.pdb
