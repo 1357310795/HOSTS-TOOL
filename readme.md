@@ -4,7 +4,7 @@
 
 ---
 
-[转到Release界面]()
+[转到Release界面](https://github.com/1357310795/HOSTS-TOOL/releases)
 
 ---
 
